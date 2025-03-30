@@ -6,8 +6,5 @@ polybar
 feh
 kitty
 pcmanfm-qt
-kate
-lxappearance
-kvantum
 rofi
 
