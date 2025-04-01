@@ -1,0 +1,14 @@
+Base pkg list plus the following:
+
+
+i3-gaps
+polybar
+rofi
+feh
+kitty
+pcmanfm-qt
+vim
+micro
+picom
+lxappearance
+kvantum
