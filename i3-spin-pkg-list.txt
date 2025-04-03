@@ -6,9 +6,12 @@ polybar
 rofi
 feh
 kitty
-pcmanfm-qt
+ranger
 vim
 micro
+nano
 picom
 lxappearance
 kvantum
+dnfdrake
+
