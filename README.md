@@ -17,3 +17,6 @@ It's your choice of screenshot tool. I personally use flameshot. Config is set u
 Place contents of .config in ~/.config and contents of .local in ~/.local. Kitty and Micro have been themed with OpenMandriva colors.
 
 
+Config also contains my xrandr command for my triple monitors. You will need to modify the xrandr command for your personal set up. 
+
+Make sure rofi, polybar launch.sh are executable.
