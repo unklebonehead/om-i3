@@ -19,4 +19,4 @@ Place contents of .config in ~/.config and contents of .local in ~/.local. Kitty
 
 Config also contains my xrandr command for my triple monitors. You will need to modify the xrandr command for your personal set up. 
 
-Make sure rofi, polybar launch.sh are executable.
+Make sure any rofi scripts, polybar's launch.sh are executable.
